@@ -1,6 +1,6 @@
 ## Hi, I’m [@PrimeMonket](https://github.com/PrimeMonket).
--	👀 I’m a computer science student, passionate about Virtual Machines, Cybersecurity, and Frontend Development and always looking to improve my skills in these areas.
--	💞️ I am currently looking to collaborate on my recent project, [Always A Virtual Machine](https://github.com/PrimeMonket/Always-A-Virtual-machine/). It’s an exciting program, and I would love to have contributions from others.
+-	👀 I’m a computer science student, passionate about Virtual Machines, Cybersecurity, and Frontend Development, always looking to improve my skills.
+-	💞️ I am currently looking to collaborate on my recent project, [Always A Virtual Machine](https://github.com/PrimeMonket/Always-A-Virtual-machine/). It’s an exciting project, and I would love to have contributions from others.
 -	📫 You can reach me on Discord at 'monket_thegreat'. I’m always open to collaborating, discussing new ideas, and seeking advice.
 
 ## Langs
@@ -13,7 +13,6 @@
 [![PrimeMonkets GitHub stats](https://github-readme-stats.vercel.app/api?username=PrimeMonket)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrimeMonket&repo=Always-A-Virtual-Machine)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeMonket)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## ToDo List
 - Commit more updates to [Always A Virtual Machine](https://github.com/PrimeMonket/Always-A-Virtual-machine/).
