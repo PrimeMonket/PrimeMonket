@@ -16,11 +16,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrimeMonket&repo=Always-A-Virtual-Machine)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeMonket)](https://github.com/anuraghazra/github-readme-stats)
 
-## ToDo List
-- Commit more updates to [Always A Virtual Machine](https://github.com/PrimeMonket/Always-A-Virtual-machine/).
-- Learn C++.
-    - Rewrite [Always A Virtual Machine](https://github.com/PrimeMonket/Always-A-Virtual-machine/) in C++.
-
 <!---
 PrimeMonket/PrimeMonket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
