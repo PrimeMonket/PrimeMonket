@@ -1,6 +1,6 @@
 ## Hi, I’m [@PrimeMonket](https://github.com/PrimeMonket).
 -	👀 I’m a computer science student, passionate about Virtual Machines, Cybersecurity, and Frontend Development, always looking to improve my skills.
--	💞️ I am currently looking to collaborate on my recent project, [Always A Virtual Machine](https://github.com/PrimeMonket/Always-A-Virtual-machine/) and [Secure-Toast-Lock](https://github.com/PrimeMonket/Secure-Toast-Lock). It’s an exciting project, and I would love to have contributions from others.
+-	💞️ I am currently looking to collaborate on my projects, [Always A Virtual Machine](https://github.com/PrimeMonket/Always-A-Virtual-machine/) and [Ninja-Dbg](https://github.com/PrimeMonket/Ninja-Dbg). It’s an exciting project, and I would love to have contributions from others.
 -	📫 You can reach me on Discord at 'monket_thegreat'. I’m always open to collaborating, discussing new ideas, and seeking advice.
 
 ## Langs
