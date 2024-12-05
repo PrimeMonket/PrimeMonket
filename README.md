@@ -1,5 +1,5 @@
 ## Hi, I’m [@PrimeMonket](https://github.com/PrimeMonket).
--	👀 I’m a computer science student, passionate about Virtual Machines, Cybersecurity, and Frontend Development, always looking to improve my skills.
+-	👀 I’m a computer science student, passionate about Virtual Machines, Cybersecurity, Malware Analysis, Reverse Engineering and Digital Forensics, always looking to improve my skills.
 -	📫 You can reach me on Discord at 'monket_thegreat'. I’m always open to collaborating, discussing new ideas, and seeking advice.
 
 ## Langs
